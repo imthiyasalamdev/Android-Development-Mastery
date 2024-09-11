@@ -6,7 +6,7 @@ An **Intent** in Android is a messaging object used to request an action from an
 
 ## Why
 
-- **Inter-component Communication:** Intents allow different components (activities, services, broadcast receivers) within an application or across applications to communicate with each other.
+- **Inter-Component Communication:** Intents allow different components (activities, services, broadcast receivers) within an application or across applications to communicate with each other.
 - **Flexibility:** They provide a flexible mechanism to perform tasks and pass data between components.
 - **Decoupling:** Intents help in decoupling components, which makes your app more modular and easier to maintain.
 
